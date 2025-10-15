@@ -1,0 +1,31 @@
+Task: Expr_inverse_train
+Model:
+  name: GAT_Transformer
+  details: 
+    num_layers: 4
+    nhead: 4
+    input_dim: 16 #sensors
+    output_dim: 1
+    d_model: 48
+    num_sensors: 16
+
+Train:
+  lr: 0.001
+  batch: 4
+  epoch: 1000
+  milestones: [0,10,20,30,50,80]
+  device: "cuda:0"
+  patience: 100
+  
+Dataset_path: "Dataset/Expriments/Expr_no_aug_inv_sec_3_3.pt"
+
+load:
+  EN: False
+  ckpt: 'Checkpoints/expr3d_inverse/best_model.pth'
+
+save_dir: 'Checkpoints/expr3d_inverse'
+wandb:
+  project: NC_GUST
+  tag: '24_11_10'
+  note: 'Graph+Transformer+Forward' 
+  

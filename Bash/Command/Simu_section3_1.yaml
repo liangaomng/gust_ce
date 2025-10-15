@@ -1,0 +1,33 @@
+Task: Simulation_forward_train
+Model:
+  name: GAT_Transformer
+  details: 
+    num_layers: 4
+    nhead: 4
+    input_dim: 9
+    output_dim: 1
+    d_model: 20
+    num_sensors: 9
+
+Train:
+  lr: 0.0005
+  batch: 30
+  epoch: 300
+  milestones: [0,10,20,30,50,80]
+  device: "cuda:0"
+  patience: 1000
+  
+Dataset_path: "/root/autodl-tmp/Gust/Dataset/Simulations/Sim_no_aug_sec_3_1.pt"
+
+load:
+  EN: false
+  ckpt: 'Checkpoints/simu2d_forward/best_model.pth'
+
+save_dir: 'Checkpoints/simu2d_forward'
+
+
+wandb:
+  project: NC_GUST
+  tag: '24_11_8'
+  note: 'Graph+Transformer+Forward' 
+  

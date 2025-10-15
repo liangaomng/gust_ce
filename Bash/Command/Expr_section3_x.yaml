@@ -1,0 +1,34 @@
+#12-4-dashuai say
+Task: Expr_forward_train
+Model:
+  name: GAT_Transformer
+  details: 
+    num_layers: 4
+    nhead: 4
+    input_dim: 16
+    output_dim: 3
+    d_model: 48
+    num_sensors: 16
+
+Train:
+  lr: 0.001
+  batch: 4
+  epoch: 400
+  milestones: [0,10,20,30,50,80]
+  device: "cuda:0"
+  patience: 80
+  
+Dataset_path: "Dataset/Expriments/Expr_forward_hard_x.pt"
+
+load:
+  EN: false
+  ckpt: 'Checkpoints/expr3d_forward_hard_x/best_model.pth'
+
+save_dir: 'Checkpoints/expr3d_forward_hard_x'
+
+
+wandb:
+  project: NC_GUST
+  tag: '24_11_25'
+  note: 'Graph+Transformer+Forward' 
+  

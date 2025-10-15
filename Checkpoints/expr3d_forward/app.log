@@ -1,0 +1,512 @@
+2024-11-16 00:50:10,264 - INFO - This is an informational message
+2024-11-16 00:50:33,935 - INFO - This is an informational message
+2024-11-16 00:52:46,525 - INFO - This is an informational message
+2024-11-16 00:52:46,607 - INFO - init finished
+2024-11-16 00:54:06,211 - INFO - This is an informational message
+2024-11-16 00:54:06,292 - INFO - init finished
+2024-11-16 00:54:21,893 - INFO - This is an informational message
+2024-11-16 00:54:21,975 - INFO - init finished
+2024-11-16 00:54:49,221 - INFO - This is an informational message
+2024-11-16 00:54:49,301 - INFO - init finished
+2024-11-16 00:55:32,397 - INFO - This is an informational message
+2024-11-16 00:55:32,486 - INFO - init finished
+2024-11-16 00:55:47,276 - INFO - This is an informational message
+2024-11-16 00:55:47,368 - INFO - init finished
+2024-11-16 00:56:24,433 - INFO - This is an informational message
+2024-11-16 00:56:24,527 - INFO - init finished
+2024-11-16 00:59:08,583 - INFO - This is an informational message
+2024-11-16 00:59:08,671 - INFO - init finished
+2024-11-16 00:59:09,660 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 00:59:10,238 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 00:59:10,811 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 00:59:11,378 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 00:59:11,952 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 00:59:12,537 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 00:59:13,126 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 00:59:14,287 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 00:59:15,428 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 00:59:16,561 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 00:59:17,133 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 00:59:17,696 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 00:59:18,264 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 00:59:18,839 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 00:59:19,978 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 00:59:21,041 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 00:59:21,570 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 00:59:22,094 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 00:59:22,624 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 00:59:23,150 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 00:59:23,690 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 00:59:24,229 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 00:59:24,767 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 00:59:25,807 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 00:59:26,860 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 00:59:27,382 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 00:59:27,911 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 00:59:28,433 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 00:59:28,966 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 00:59:30,017 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 00:59:31,065 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 00:59:31,599 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 00:59:32,666 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 00:59:33,190 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 00:59:33,714 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 00:59:35,285 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 00:59:36,327 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 00:59:36,850 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 00:59:38,943 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 00:59:39,467 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 00:59:40,521 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 00:59:41,045 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 00:59:41,568 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 00:59:45,252 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 00:59:47,354 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 00:59:48,920 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 00:59:50,501 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 00:59:52,066 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 00:59:54,177 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 00:59:55,746 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 00:59:57,862 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 00:59:58,911 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 00:59:59,966 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 01:00:01,035 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 01:00:02,616 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 01:00:04,742 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 01:00:08,419 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 01:00:10,542 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 01:00:13,179 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 01:00:14,240 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 01:00:16,872 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 01:00:17,928 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 01:00:21,083 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 01:00:24,258 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 01:00:24,789 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 01:00:26,907 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 01:00:27,960 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 01:00:31,138 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 01:00:32,190 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 01:00:38,504 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 01:00:39,039 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 01:00:40,630 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 01:00:42,737 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 01:00:44,328 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 01:00:45,382 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 01:00:47,496 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 01:00:51,768 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 01:00:52,836 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 01:00:55,448 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 01:00:55,458 - INFO - Model loaded from Checkpoints/expr3d_forward/best_model.pth
+2024-11-16 01:00:56,257 - INFO - test_loss:0.008881328161805868
+2024-11-16 19:42:04,451 - INFO - This is an informational message
+2024-11-16 19:42:04,534 - INFO - init finished
+2024-11-16 19:42:05,452 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:42:05,946 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:42:06,441 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:42:06,937 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:42:07,434 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:42:07,930 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:42:08,428 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:42:08,929 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:42:09,423 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:42:09,924 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:42:10,417 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:42:10,912 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:42:11,406 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:42:11,888 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:42:12,399 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:42:12,898 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:42:13,382 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:42:13,873 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:42:14,360 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:42:14,862 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:42:15,360 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:42:15,855 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:42:16,352 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:42:16,849 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:42:17,349 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:42:17,848 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:42:18,839 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:42:19,831 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:42:20,331 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:42:20,834 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:42:21,336 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:42:23,325 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:42:24,318 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:42:24,819 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:42:25,322 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:42:26,322 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:42:27,320 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:42:28,318 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:42:29,313 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:42:30,310 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:42:31,309 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:42:32,304 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:42:32,805 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:42:33,776 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:42:34,714 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:42:36,590 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:42:38,458 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:42:39,960 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:42:42,934 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:42:45,410 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:42:47,392 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:42:47,893 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:42:48,890 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:42:50,382 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:42:50,885 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:42:51,889 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:42:53,875 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:42:56,355 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:42:57,342 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:42:58,308 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:42:59,757 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:43:00,715 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:43:02,645 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:43:03,641 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:43:04,141 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:43:06,128 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:43:07,124 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:43:09,618 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:43:10,623 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:43:11,627 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:43:15,111 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:43:18,579 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:43:19,079 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:43:19,579 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:43:21,555 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:43:23,006 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:43:25,370 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:43:27,362 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:43:27,867 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:43:29,880 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:43:31,380 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:43:34,851 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:43:38,821 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:43:39,320 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:43:41,316 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:43:43,293 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 19:43:43,796 - INFO - Model loaded from Checkpoints/expr3d_forward/best_model.pth
+2024-11-16 19:43:44,612 - INFO - test_loss:0.01320300082443282
+2024-11-16 22:29:46,535 - INFO - This is an informational message
+2024-11-16 22:29:46,619 - INFO - init finished
+2024-11-16 22:29:47,545 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:29:48,053 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:29:48,567 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:29:49,079 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:29:49,588 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:29:50,099 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:29:50,604 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:29:51,115 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:29:51,628 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:29:52,137 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:29:52,644 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:29:53,150 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:29:53,655 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:29:54,163 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:29:54,668 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:29:55,175 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:29:55,683 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:29:56,188 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:29:56,698 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:29:57,206 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:29:57,713 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:29:58,218 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:29:58,722 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:29:59,226 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:29:59,742 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:30:00,245 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:30:01,252 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:30:02,261 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:30:02,766 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:30:03,263 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:30:03,751 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:30:05,680 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:30:06,642 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:30:07,120 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:30:07,627 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:30:08,642 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:30:09,658 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:30:10,679 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:30:11,695 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:30:12,703 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:30:13,712 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:30:14,720 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:30:15,226 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:30:16,231 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:30:17,241 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:30:19,251 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:30:21,254 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:30:22,759 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:30:25,769 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:30:28,193 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:30:30,146 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:30:30,656 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:30:31,667 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:30:33,176 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:30:33,682 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:30:34,696 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:30:36,717 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:30:39,243 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:30:40,253 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:30:41,263 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:30:42,779 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:30:43,789 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:30:45,816 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:30:46,829 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:30:47,344 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:30:49,321 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:30:50,311 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:30:52,757 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:30:53,757 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:30:54,846 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:30:58,640 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:31:02,439 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:31:02,988 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:31:03,540 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:31:05,721 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:31:07,357 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:31:10,075 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:31:12,241 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:31:12,777 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:31:14,894 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:31:16,366 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:31:19,724 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:31:23,616 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:31:24,100 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:31:26,045 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:31:27,985 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:31:28,477 - INFO - Model loaded from Checkpoints/expr3d_forward/best_model.pth
+2024-11-16 22:31:29,288 - INFO - test_loss:0.013202998205088079
+2024-11-16 22:31:41,925 - INFO - This is an informational message
+2024-11-16 22:31:42,007 - INFO - init finished
+2024-11-16 22:32:00,449 - INFO - This is an informational message
+2024-11-16 22:32:00,530 - INFO - init finished
+2024-11-16 22:33:37,714 - INFO - This is an informational message
+2024-11-16 22:33:37,798 - INFO - init finished
+2024-11-16 22:34:17,619 - INFO - This is an informational message
+2024-11-16 22:34:17,702 - INFO - init finished
+2024-11-16 22:35:48,055 - INFO - This is an informational message
+2024-11-16 22:35:48,138 - INFO - init finished
+2024-11-16 22:36:20,170 - INFO - This is an informational message
+2024-11-16 22:36:20,250 - INFO - init finished
+2024-11-16 22:40:27,492 - INFO - This is an informational message
+2024-11-16 22:40:27,577 - INFO - init finished
+2024-11-16 22:42:44,208 - INFO - This is an informational message
+2024-11-16 22:42:44,292 - INFO - init finished
+2024-11-16 22:45:52,276 - INFO - This is an informational message
+2024-11-16 22:45:52,359 - INFO - init finished
+2024-11-16 22:45:53,354 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:45:53,954 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:45:54,538 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:45:55,127 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:45:55,716 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:45:56,326 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:45:56,929 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:45:57,526 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:45:58,134 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:45:58,725 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:45:59,903 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:46:02,857 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:46:05,228 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:46:05,823 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:46:07,591 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:46:08,185 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:46:09,969 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:46:11,738 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:46:12,331 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:46:12,924 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:46:13,520 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:46:14,116 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:46:14,707 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:46:15,298 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:46:15,882 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:46:17,039 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:46:17,619 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:46:18,189 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:46:18,769 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:46:19,373 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:46:19,980 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:46:20,587 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:46:21,194 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:46:21,803 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:46:22,412 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:46:23,018 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:46:24,230 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:46:24,835 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:46:25,446 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:46:26,053 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:46:26,661 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:46:27,266 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:46:27,874 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:46:29,683 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:46:30,892 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:46:31,496 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:46:32,105 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:46:32,715 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:46:33,326 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:46:33,941 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:46:36,980 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:46:39,945 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:46:42,937 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:46:43,546 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:46:44,758 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:46:45,375 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:46:46,592 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:46:47,206 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:46:47,819 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:46:51,463 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:46:52,084 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:46:53,925 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:46:55,150 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:46:56,978 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:46:57,590 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:46:58,201 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:46:58,815 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:47:00,628 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:47:05,280 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:47:05,856 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:47:06,442 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:47:07,590 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:47:11,076 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:47:12,242 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:47:13,980 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:47:17,455 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:47:18,601 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:47:19,182 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:47:20,323 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:47:21,479 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:47:22,640 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:47:27,925 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:47:28,594 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:47:31,913 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:47:33,250 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:47:34,585 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:47:35,260 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:47:35,939 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:47:36,608 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:47:46,563 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:47:47,180 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:47:47,765 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:47:48,348 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:47:48,929 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:47:50,697 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-16 22:47:53,687 - INFO - Model loaded from Checkpoints/expr3d_forward/best_model.pth
+2024-11-16 22:47:54,533 - INFO - test_loss:0.006582464906387031
+2024-11-17 02:07:43,456 - INFO - This is an informational message
+2024-11-17 02:07:43,539 - INFO - init finished
+2024-11-17 02:07:44,414 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:07:44,916 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:07:45,419 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:07:46,448 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:07:49,577 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:07:50,105 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:07:50,632 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:07:51,160 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:07:52,215 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:07:53,259 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:07:53,785 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:07:55,867 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:08:01,049 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:08:03,028 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:08:04,514 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:08:08,531 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:08:28,474 - INFO - Model loaded from Checkpoints/expr3d_forward/best_model.pth
+2024-11-17 02:08:29,291 - INFO - test_loss:0.003892037319019437
+2024-11-17 02:09:00,824 - INFO - This is an informational message
+2024-11-17 02:09:00,909 - INFO - init finished
+2024-11-17 02:09:01,847 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:09:02,376 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:09:02,908 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:09:05,559 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:09:06,620 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:09:10,898 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:09:12,502 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:09:14,091 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:09:14,635 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:09:15,171 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:09:16,240 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:09:16,760 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:09:18,295 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:09:18,811 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:09:19,340 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:09:22,014 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:09:30,876 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:09:33,102 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:09:41,192 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:09:43,322 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:09:48,662 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:09:54,501 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:09:55,545 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:10:00,755 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:10:09,274 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:10:30,917 - INFO - Model loaded from Checkpoints/expr3d_forward/best_model.pth
+2024-11-17 02:10:31,740 - INFO - test_loss:0.0025001223548315465
+2024-11-17 02:11:10,834 - INFO - This is an informational message
+2024-11-17 02:11:10,925 - INFO - init finished
+2024-11-17 02:11:11,884 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:11:12,439 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:11:12,997 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:11:15,742 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:11:16,818 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:11:21,089 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:11:22,747 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:11:24,409 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:11:24,971 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:11:25,528 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:11:26,636 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:11:27,197 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:11:29,409 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:11:29,970 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:11:34,906 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:11:35,443 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:11:37,035 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:11:39,687 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:11:40,226 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:11:41,311 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:11:50,994 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:11:51,542 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:11:52,625 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:12:35,552 - INFO - Model loaded from Checkpoints/expr3d_forward/best_model.pth
+2024-11-17 02:12:36,367 - INFO - test_loss:0.0035651312791742384
+2024-11-17 02:12:59,231 - INFO - This is an informational message
+2024-11-17 02:12:59,315 - INFO - init finished
+2024-11-17 02:13:00,232 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:13:00,753 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:13:01,278 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:13:01,819 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:13:02,338 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:13:04,475 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:13:05,025 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:13:13,111 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:13:41,705 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:14:09,976 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:14:53,307 - INFO - Model loaded from Checkpoints/expr3d_forward/best_model.pth
+2024-11-17 02:14:54,087 - INFO - test_loss:0.18662397749722004
+2024-11-17 02:15:17,002 - INFO - This is an informational message
+2024-11-17 02:15:17,121 - INFO - init finished
+2024-11-17 02:15:18,236 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:15:18,840 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:15:19,431 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:15:20,610 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:15:24,131 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:15:24,721 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:15:25,307 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:15:25,880 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:15:27,017 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:15:28,138 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:15:28,676 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:15:30,703 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:15:36,445 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:15:38,758 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:15:40,501 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:15:44,547 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:15:46,285 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:15:46,852 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:16:29,606 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:16:47,654 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:16:56,244 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:17:09,165 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:17:32,460 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:18:06,746 - INFO - New best model saved at Checkpoints/expr3d_forward/best_model.pth 
+2024-11-17 02:18:44,698 - INFO - Model loaded from Checkpoints/expr3d_forward/best_model.pth
+2024-11-17 02:18:45,505 - INFO - test_loss:0.00274614586669486

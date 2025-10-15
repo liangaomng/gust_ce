@@ -1,0 +1,21 @@
+2024-11-30 04:12:38,361 - INFO - This is an informational message
+2024-11-30 04:12:38,459 - INFO - init finished
+2024-11-30 04:12:39,451 - INFO - New best model saved at Checkpoints/expr3d_forward_hard/best_model.pth 
+2024-11-30 04:12:39,972 - INFO - New best model saved at Checkpoints/expr3d_forward_hard/best_model.pth 
+2024-11-30 04:12:40,504 - INFO - New best model saved at Checkpoints/expr3d_forward_hard/best_model.pth 
+2024-11-30 04:12:41,051 - INFO - New best model saved at Checkpoints/expr3d_forward_hard/best_model.pth 
+2024-11-30 04:12:42,630 - INFO - New best model saved at Checkpoints/expr3d_forward_hard/best_model.pth 
+2024-11-30 04:12:43,149 - INFO - New best model saved at Checkpoints/expr3d_forward_hard/best_model.pth 
+2024-11-30 04:12:49,743 - INFO - New best model saved at Checkpoints/expr3d_forward_hard/best_model.pth 
+2024-11-30 04:12:50,239 - INFO - New best model saved at Checkpoints/expr3d_forward_hard/best_model.pth 
+2024-11-30 04:12:50,754 - INFO - New best model saved at Checkpoints/expr3d_forward_hard/best_model.pth 
+2024-11-30 04:12:51,765 - INFO - New best model saved at Checkpoints/expr3d_forward_hard/best_model.pth 
+2024-11-30 04:13:00,601 - INFO - New best model saved at Checkpoints/expr3d_forward_hard/best_model.pth 
+2024-11-30 04:13:08,197 - INFO - New best model saved at Checkpoints/expr3d_forward_hard/best_model.pth 
+2024-11-30 04:13:37,422 - INFO - New best model saved at Checkpoints/expr3d_forward_hard/best_model.pth 
+2024-11-30 04:13:42,400 - INFO - New best model saved at Checkpoints/expr3d_forward_hard/best_model.pth 
+2024-11-30 04:13:43,409 - INFO - New best model saved at Checkpoints/expr3d_forward_hard/best_model.pth 
+2024-11-30 04:13:56,929 - INFO - New best model saved at Checkpoints/expr3d_forward_hard/best_model.pth 
+2024-11-30 04:14:18,526 - INFO - New best model saved at Checkpoints/expr3d_forward_hard/best_model.pth 
+2024-11-30 04:14:59,531 - INFO - Model loaded from Checkpoints/expr3d_forward_hard/best_model.pth
+2024-11-30 04:15:00,362 - INFO - test_loss:0.04666102785267867

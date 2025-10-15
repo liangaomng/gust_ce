@@ -1,0 +1,87 @@
+2024-12-17 20:16:20,373 - INFO - This is an informational message
+2024-12-17 20:16:20,461 - INFO - init finished
+2024-12-17 20:16:21,524 - INFO - New best model saved at Checkpoints/expr3d_forward_downstream/best_model.pth 
+2024-12-17 20:16:22,059 - INFO - New best model saved at Checkpoints/expr3d_forward_downstream/best_model.pth 
+2024-12-17 20:16:22,600 - INFO - New best model saved at Checkpoints/expr3d_forward_downstream/best_model.pth 
+2024-12-17 20:16:23,672 - INFO - New best model saved at Checkpoints/expr3d_forward_downstream/best_model.pth 
+2024-12-17 20:17:01,100 - INFO - This is an informational message
+2024-12-17 20:17:01,186 - INFO - init finished
+2024-12-17 20:17:02,186 - INFO - New best model saved at Checkpoints/expr3d_forward_downstream/best_model.pth 
+2024-12-17 20:17:02,725 - INFO - New best model saved at Checkpoints/expr3d_forward_downstream/best_model.pth 
+2024-12-17 20:17:03,265 - INFO - New best model saved at Checkpoints/expr3d_forward_downstream/best_model.pth 
+2024-12-17 20:17:04,341 - INFO - New best model saved at Checkpoints/expr3d_forward_downstream/best_model.pth 
+2024-12-17 20:17:07,552 - INFO - New best model saved at Checkpoints/expr3d_forward_downstream/best_model.pth 
+2024-12-17 20:17:08,086 - INFO - New best model saved at Checkpoints/expr3d_forward_downstream/best_model.pth 
+2024-12-17 20:17:08,621 - INFO - New best model saved at Checkpoints/expr3d_forward_downstream/best_model.pth 
+2024-12-17 20:17:09,160 - INFO - New best model saved at Checkpoints/expr3d_forward_downstream/best_model.pth 
+2024-12-17 20:17:10,229 - INFO - New best model saved at Checkpoints/expr3d_forward_downstream/best_model.pth 
+2024-12-17 20:17:11,308 - INFO - New best model saved at Checkpoints/expr3d_forward_downstream/best_model.pth 
+2024-12-17 20:17:11,847 - INFO - New best model saved at Checkpoints/expr3d_forward_downstream/best_model.pth 
+2024-12-17 20:17:13,993 - INFO - New best model saved at Checkpoints/expr3d_forward_downstream/best_model.pth 
+2024-12-17 20:17:18,789 - INFO - New best model saved at Checkpoints/expr3d_forward_downstream/best_model.pth 
+2024-12-17 20:17:19,327 - INFO - New best model saved at Checkpoints/expr3d_forward_downstream/best_model.pth 
+2024-12-17 20:17:19,862 - INFO - New best model saved at Checkpoints/expr3d_forward_downstream/best_model.pth 
+2024-12-17 20:17:23,076 - INFO - New best model saved at Checkpoints/expr3d_forward_downstream/best_model.pth 
+2024-12-17 20:17:24,143 - INFO - New best model saved at Checkpoints/expr3d_forward_downstream/best_model.pth 
+2024-12-17 20:17:53,189 - INFO - New best model saved at Checkpoints/expr3d_forward_downstream/best_model.pth 
+2024-12-17 20:18:08,457 - INFO - New best model saved at Checkpoints/expr3d_forward_downstream/best_model.pth 
+2024-12-17 20:18:19,736 - INFO - New best model saved at Checkpoints/expr3d_forward_downstream/best_model.pth 
+2024-12-17 20:18:48,179 - INFO - New best model saved at Checkpoints/expr3d_forward_downstream/best_model.pth 
+2024-12-17 20:18:58,552 - INFO - New best model saved at Checkpoints/expr3d_forward_downstream/best_model.pth 
+2024-12-17 20:19:16,890 - INFO - New best model saved at Checkpoints/expr3d_forward_downstream/best_model.pth 
+2024-12-17 20:20:13,060 - INFO - New best model saved at Checkpoints/expr3d_forward_downstream/best_model.pth 
+2024-12-17 20:20:38,171 - INFO - New best model saved at Checkpoints/expr3d_forward_downstream/best_model.pth 
+2024-12-17 20:20:42,153 - INFO - New best model saved at Checkpoints/expr3d_forward_downstream/best_model.pth 
+2024-12-17 20:21:46,889 - INFO - Model loaded from Checkpoints/expr3d_forward/best_model.pth
+2024-12-17 20:21:47,772 - INFO - test_loss:0.0027461534045869485
+2024-12-18 17:27:15,434 - INFO - This is an informational message
+2024-12-18 17:27:15,522 - INFO - init finished
+2024-12-18 17:27:16,494 - INFO - New best model saved at Checkpoints/expr3d_forward_downstream/best_model.pth 
+2024-12-18 17:27:17,045 - INFO - New best model saved at Checkpoints/expr3d_forward_downstream/best_model.pth 
+2024-12-18 17:27:17,592 - INFO - New best model saved at Checkpoints/expr3d_forward_downstream/best_model.pth 
+2024-12-18 17:27:18,672 - INFO - New best model saved at Checkpoints/expr3d_forward_downstream/best_model.pth 
+2024-12-18 17:27:21,890 - INFO - New best model saved at Checkpoints/expr3d_forward_downstream/best_model.pth 
+2024-12-18 17:27:22,429 - INFO - New best model saved at Checkpoints/expr3d_forward_downstream/best_model.pth 
+2024-12-18 17:27:22,989 - INFO - New best model saved at Checkpoints/expr3d_forward_downstream/best_model.pth 
+2024-12-18 17:27:23,528 - INFO - New best model saved at Checkpoints/expr3d_forward_downstream/best_model.pth 
+2024-12-18 17:27:24,601 - INFO - New best model saved at Checkpoints/expr3d_forward_downstream/best_model.pth 
+2024-12-18 17:27:25,674 - INFO - New best model saved at Checkpoints/expr3d_forward_downstream/best_model.pth 
+2024-12-18 17:27:26,215 - INFO - New best model saved at Checkpoints/expr3d_forward_downstream/best_model.pth 
+2024-12-18 17:27:28,340 - INFO - New best model saved at Checkpoints/expr3d_forward_downstream/best_model.pth 
+2024-12-18 17:27:33,132 - INFO - New best model saved at Checkpoints/expr3d_forward_downstream/best_model.pth 
+2024-12-18 17:27:33,671 - INFO - New best model saved at Checkpoints/expr3d_forward_downstream/best_model.pth 
+2024-12-18 17:27:34,212 - INFO - New best model saved at Checkpoints/expr3d_forward_downstream/best_model.pth 
+2024-12-18 17:27:35,287 - INFO - New best model saved at Checkpoints/expr3d_forward_downstream/best_model.pth 
+2024-12-18 17:27:39,575 - INFO - New best model saved at Checkpoints/expr3d_forward_downstream/best_model.pth 
+2024-12-18 17:27:41,719 - INFO - New best model saved at Checkpoints/expr3d_forward_downstream/best_model.pth 
+2024-12-18 17:27:42,803 - INFO - New best model saved at Checkpoints/expr3d_forward_downstream/best_model.pth 
+2024-12-18 17:28:10,126 - INFO - New best model saved at Checkpoints/expr3d_forward_downstream/best_model.pth 
+2024-12-18 17:28:41,688 - INFO - New best model saved at Checkpoints/expr3d_forward_downstream/best_model.pth 
+2024-12-18 17:28:58,168 - INFO - New best model saved at Checkpoints/expr3d_forward_downstream/best_model.pth 
+2024-12-18 17:29:10,646 - INFO - New best model saved at Checkpoints/expr3d_forward_downstream/best_model.pth 
+2024-12-18 17:29:34,737 - INFO - New best model saved at Checkpoints/expr3d_forward_downstream/best_model.pth 
+2024-12-18 17:30:15,472 - INFO - Model loaded from Checkpoints/expr3d_forward/best_model.pth
+2024-12-18 17:30:16,317 - INFO - test_loss:0.002746153448242694
+2024-12-18 17:40:47,180 - INFO - This is an informational message
+2024-12-18 17:40:47,270 - INFO - init finished
+2024-12-18 17:40:48,207 - INFO - New best model saved at Checkpoints/expr3d_forward_downstream/best_model.pth 
+2024-12-18 17:40:48,744 - INFO - New best model saved at Checkpoints/expr3d_forward_downstream/best_model.pth 
+2024-12-18 17:40:49,282 - INFO - New best model saved at Checkpoints/expr3d_forward_downstream/best_model.pth 
+2024-12-18 17:40:50,348 - INFO - New best model saved at Checkpoints/expr3d_forward_downstream/best_model.pth 
+2024-12-18 17:40:53,546 - INFO - New best model saved at Checkpoints/expr3d_forward_downstream/best_model.pth 
+2024-12-18 17:40:54,089 - INFO - New best model saved at Checkpoints/expr3d_forward_downstream/best_model.pth 
+2024-12-18 17:40:54,638 - INFO - New best model saved at Checkpoints/expr3d_forward_downstream/best_model.pth 
+2024-12-18 17:40:55,181 - INFO - New best model saved at Checkpoints/expr3d_forward_downstream/best_model.pth 
+2024-12-18 17:40:56,252 - INFO - New best model saved at Checkpoints/expr3d_forward_downstream/best_model.pth 
+2024-12-18 17:40:57,343 - INFO - New best model saved at Checkpoints/expr3d_forward_downstream/best_model.pth 
+2024-12-18 17:40:57,883 - INFO - New best model saved at Checkpoints/expr3d_forward_downstream/best_model.pth 
+2024-12-18 17:41:00,025 - INFO - New best model saved at Checkpoints/expr3d_forward_downstream/best_model.pth 
+2024-12-18 17:41:05,368 - INFO - New best model saved at Checkpoints/expr3d_forward_downstream/best_model.pth 
+2024-12-18 17:41:07,476 - INFO - New best model saved at Checkpoints/expr3d_forward_downstream/best_model.pth 
+2024-12-18 17:41:08,542 - INFO - New best model saved at Checkpoints/expr3d_forward_downstream/best_model.pth 
+2024-12-18 17:41:09,082 - INFO - New best model saved at Checkpoints/expr3d_forward_downstream/best_model.pth 
+2024-12-18 17:41:14,972 - INFO - New best model saved at Checkpoints/expr3d_forward_downstream/best_model.pth 
+2024-12-18 17:41:57,578 - INFO - New best model saved at Checkpoints/expr3d_forward_downstream/best_model.pth 
+2024-12-18 17:42:02,339 - INFO - New best model saved at Checkpoints/expr3d_forward_downstream/best_model.pth 
+2024-12-18 17:42:45,235 - INFO - Model loaded from Checkpoints/expr3d_forward/best_model.pth
+2024-12-18 17:42:46,072 - INFO - test_loss:0.002746151832980104

@@ -1,0 +1,31 @@
+2024-12-17 20:17:27,757 - INFO - This is an informational message
+2024-12-17 20:17:27,842 - INFO - init finished
+2024-12-17 20:17:29,021 - INFO - New best model saved at Checkpoints/expr3d_forward_horizon/best_model.pth 
+2024-12-17 20:17:29,763 - INFO - New best model saved at Checkpoints/expr3d_forward_horizon/best_model.pth 
+2024-12-17 20:17:30,490 - INFO - New best model saved at Checkpoints/expr3d_forward_horizon/best_model.pth 
+2024-12-17 20:17:31,967 - INFO - New best model saved at Checkpoints/expr3d_forward_horizon/best_model.pth 
+2024-12-17 20:17:36,374 - INFO - New best model saved at Checkpoints/expr3d_forward_horizon/best_model.pth 
+2024-12-17 20:17:37,137 - INFO - New best model saved at Checkpoints/expr3d_forward_horizon/best_model.pth 
+2024-12-17 20:17:37,895 - INFO - New best model saved at Checkpoints/expr3d_forward_horizon/best_model.pth 
+2024-12-17 20:17:38,660 - INFO - New best model saved at Checkpoints/expr3d_forward_horizon/best_model.pth 
+2024-12-17 20:17:40,173 - INFO - New best model saved at Checkpoints/expr3d_forward_horizon/best_model.pth 
+2024-12-17 20:17:41,694 - INFO - New best model saved at Checkpoints/expr3d_forward_horizon/best_model.pth 
+2024-12-17 20:17:42,457 - INFO - New best model saved at Checkpoints/expr3d_forward_horizon/best_model.pth 
+2024-12-17 20:17:45,495 - INFO - New best model saved at Checkpoints/expr3d_forward_horizon/best_model.pth 
+2024-12-17 20:17:52,487 - INFO - New best model saved at Checkpoints/expr3d_forward_horizon/best_model.pth 
+2024-12-17 20:17:53,312 - INFO - New best model saved at Checkpoints/expr3d_forward_horizon/best_model.pth 
+2024-12-17 20:17:54,118 - INFO - New best model saved at Checkpoints/expr3d_forward_horizon/best_model.pth 
+2024-12-17 20:18:02,126 - INFO - New best model saved at Checkpoints/expr3d_forward_horizon/best_model.pth 
+2024-12-17 20:18:16,642 - INFO - New best model saved at Checkpoints/expr3d_forward_horizon/best_model.pth 
+2024-12-17 20:18:24,700 - INFO - New best model saved at Checkpoints/expr3d_forward_horizon/best_model.pth 
+2024-12-17 20:18:28,754 - INFO - New best model saved at Checkpoints/expr3d_forward_horizon/best_model.pth 
+2024-12-17 20:18:34,163 - INFO - New best model saved at Checkpoints/expr3d_forward_horizon/best_model.pth 
+2024-12-17 20:18:43,467 - INFO - New best model saved at Checkpoints/expr3d_forward_horizon/best_model.pth 
+2024-12-17 20:18:44,263 - INFO - New best model saved at Checkpoints/expr3d_forward_horizon/best_model.pth 
+2024-12-17 20:18:45,878 - INFO - New best model saved at Checkpoints/expr3d_forward_horizon/best_model.pth 
+2024-12-17 20:18:52,334 - INFO - New best model saved at Checkpoints/expr3d_forward_horizon/best_model.pth 
+2024-12-17 20:19:16,287 - INFO - New best model saved at Checkpoints/expr3d_forward_horizon/best_model.pth 
+2024-12-17 20:20:01,839 - INFO - New best model saved at Checkpoints/expr3d_forward_horizon/best_model.pth 
+2024-12-17 20:20:47,062 - INFO - New best model saved at Checkpoints/expr3d_forward_horizon/best_model.pth 
+2024-12-17 20:21:49,246 - INFO - Model loaded from Checkpoints/expr3d_forward/best_model.pth
+2024-12-17 20:21:50,059 - INFO - test_loss:0.002746153433690779
