@@ -12,7 +12,7 @@ model(x,adj_matrix,condition:op)
 <img src="Asset/simu.jpeg" alt="simu" width="500">
 
 ### Visual .ipynbs DONE
-SECTION 3_1: simulation DATA  --DONE
+SECTION 3_1: simulation DATA  --DONE in the Dataset/data_new.ipynb, we thanks zijin for pointing out our errors for the coords, we hope people could restart it and generate to test
 
 SECTION 3_2: EXPRIMENTAL DATA --DONE
 
